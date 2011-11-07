@@ -67,7 +67,7 @@
     <Reference Include="System.Core" />
     <Reference Include="monotouch" />
     <Reference Include="ServiceStack.Text">
-      <HintPath>Assemblies\old\ServiceStack.Text.dll</HintPath>
+      <HintPath>Assemblies\ServiceStack.Text.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

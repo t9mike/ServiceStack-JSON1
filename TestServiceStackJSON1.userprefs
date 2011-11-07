@@ -1,18 +1,19 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhone" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppDelegate.cs">
     <Files>
-      <File FileName="AppDelegate.cs" Line="39" Column="32" />
+      <File FileName="AppDelegate.cs" Line="70" Column="1" />
       <File FileName="../../MonoTouch-Samples/One-Offs/TweetStation/MonoTouch.Dialog/MonoTouch.Dialog/DialogViewController.cs" Line="1" Column="1" />
-      <File FileName="Main.cs" Line="1" Column="1" />
+      <File FileName="Main.cs" Line="10" Column="1" />
       <File FileName="TestClass.cs" Line="1" Column="1" />
       <File FileName="Info.plist" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
-          <Node name="TestServiceStackJSON1" expanded="True" selected="True">
+          <Node name="TestServiceStackJSON1" expanded="True">
             <Node name="References" expanded="True" />
+            <Node name="AppDelegate.cs" selected="True" />
           </Node>
         </State>
       </Pad>

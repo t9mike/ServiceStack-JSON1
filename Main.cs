@@ -8,10 +8,7 @@ namespace TestServiceStackJSON1
     {
         static void Main (string[] args)
         {
-            // UIApplication.Main (args); See blog comments from Philippe Laybaert….
-
             UIApplication.Main (args,null,"AppDelegate");
-
         }
     }
 }
