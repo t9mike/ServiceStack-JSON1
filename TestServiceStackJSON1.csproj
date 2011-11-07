@@ -19,7 +19,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <ConsolePause>false</ConsolePause>
-    <MtouchLink>None</MtouchLink>
     <MtouchDebug>true</MtouchDebug>
     <MtouchI18n />
     <MtouchSdkVersion>5.0</MtouchSdkVersion>
@@ -50,7 +49,6 @@
     <IpaPackageName />
     <AssemblyName>TestServiceStackJSON1</AssemblyName>
     <MtouchSdkVersion>5.0</MtouchSdkVersion>
-    <MtouchLink>None</MtouchLink>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
     <DebugType>none</DebugType>
@@ -61,7 +59,6 @@
     <ConsolePause>false</ConsolePause>
     <CodesignKey>iPhone Developer</CodesignKey>
     <AssemblyName>TestServiceStackJSON1</AssemblyName>
-    <MtouchLink>None</MtouchLink>
     <MtouchI18n />
   </PropertyGroup>
   <ItemGroup>
@@ -70,7 +67,7 @@
     <Reference Include="System.Core" />
     <Reference Include="monotouch" />
     <Reference Include="ServiceStack.Text">
-      <HintPath>Assemblies\ServiceStack.Text.dll</HintPath>
+      <HintPath>Assemblies\old\ServiceStack.Text.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
